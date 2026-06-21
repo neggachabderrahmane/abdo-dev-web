@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm abderrahmane</h1>
-<h3 align="center">A passionate frontend developer from algerai</h3>
+<h3 align="center">A passionate frontend developer from algeria</h3>
 
 - 🔭 I’m currently working on [relizane-fellah](https://relizane-fellah.web.app)
+
+- 🌱 I’m currently learning **Cybersecurity, AI tools for coding, and IoT**
+
+- 💬 Ask me about **html,css,js,react.js,node.js,**
+
+- 📫 How to reach me **neggachabderrahmane@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
